@@ -2,10 +2,12 @@
 
 ## Project Summary
 This project explores the relationship between renewable energy share and CO2 emissions per capita across countries over time.
+
 **Skills demonstrated:**
 * **SQL**: Data cleaning, joining multiple datasets, aggregation, ranking, handling duplicates, renaming columns.
 * **Data Analysis**: Exploratory analysis of time trends, country-level averages, and rankings.
 * **Data Visualisation (Tableau)**: Time series, bar charts, scatter plots and a map in a dashboard to highlight insights.
+  
 **Datasets used:**
 1. Renewable energy share (% of primary energy)
 2. CO2 emissions per capita (tonnes per person)
@@ -31,6 +33,7 @@ https://public.tableau.com/app/profile/israh.kawthar/viz/EnergyPersonalProject/D
 * **Renewable energy share:** [Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data. “Share of primary energy consumption that comes from renewables – Using the substitution method” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].](https://ourworldindata.org/renewable-energy)
 
 * **CO₂ emissions per capita:** [Global Carbon Budget (2024); Population based on various sources (2024) – with major processing by Our World in Data. “CO₂ emissions per capita” [dataset]. Global Carbon Project, “Global Carbon Budget”; Various sources, “Population” [original data].](https://ourworldindata.org/explorers/co2?tab=table&Gas+or+Warming=CO₂&Accounting=Territorial&Fuel+or+Land+Use+Change=All+fossil+emissions&Count=Per+capita&country=CHN~USA~IND~GBR~OWID_WRL)
+
 *Note: Some countries and entities were excluded from the analysis if data was missing in either dataset. Only countries with both renewable and CO₂ data are included.*
 
 
