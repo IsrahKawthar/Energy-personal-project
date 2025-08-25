@@ -1,7 +1,7 @@
-# Energy Project – Renewable Energy & CO2 Emissions
+# Energy Project – Renewable Energy & CO₂ Emissions
 
 ## Project Summary
-This project explores the relationship between renewable energy share and CO2 emissions per capita across countries over time.
+This project explores the relationship between renewable energy share and CO₂ emissions per capita across countries over time.
 
 **Skills demonstrated:**
 * **SQL**: Data cleaning, joining multiple datasets, aggregation, ranking, handling duplicates, renaming columns.
@@ -10,7 +10,7 @@ This project explores the relationship between renewable energy share and CO2 em
   
 **Datasets used:**
 1. Renewable energy share (% of primary energy)
-2. CO2 emissions per capita (tonnes per person)
+2. CO₂ emissions per capita (tonnes per person)
 
 ## Insights
 * **Global trends over time:**
@@ -22,7 +22,7 @@ This project explores the relationship between renewable energy share and CO2 em
     * *Highest CO₂ emissions per capita:* Qatar (36.6 t CO₂ per person)
 * **Overall patterns:**
     * Countries with higher renewable energy shares often show lower CO₂ emissions, with few outliers like Canada- which has high emissions despite its large renewable energy share due to the need for heating and long-distance transport for its sparse population.
-    * 2020 showed a drop in CO2 emissions because of lockdowns around the world due to the COVID-19 pandemic.
+    * 2020 showed a drop in CO₂ emissions because of lockdowns around the world due to the COVID-19 pandemic.
     * Developed and high-income regions often have higher emissions historically but are increasing renewable adoption. Some emerging economies are still growing in emissions.
 
 ## Tableau link to my Energy project:
